@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Dani Llobet",
+  "license": "MIT",
+  "description": "",
+  "keywords": ["minimalista","npm","package"]
 }
